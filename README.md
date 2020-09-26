@@ -1,2 +1,2 @@
 # rameshfernando.github.io
-Contains the work of NLP, Computer Architecture and Deep Learning
+Contains the work of Natural Language Processing
